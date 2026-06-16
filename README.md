@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Piel ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-ardiente/) |
+| **Get License** | [Get a Licensing Quote for Piel ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu calor en la madrugada, baby
+> Tu mirada me dice que esta noche estás ready
+> Esa piel ardiente, mami, me tiene en tensión
+> Nos perdemos en Madrid buscando la emoción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
