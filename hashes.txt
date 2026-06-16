@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel ardiente
+
+This log tracks the cryptographic history and versioning for the song **Piel ardiente** (piel-ardiente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:49:21.849531 | `v1` | `707d0889d8df2c7eacb94f5558a718b1898d5b4331832a2b3b77a37ddb811131` | `ea2508242485856aaac1798e352fe20420272dd15ba7443b388f58cba1780d44` | `2026-06-16_piel-ardiente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
